@@ -1,0 +1,54 @@
+.rectangle1{
+  width: 80%;
+  height: 75px;
+  background: #00FFAF;
+  float: left;
+}
+.rectangle2{
+  width: 20%;
+  height: 75px;
+  background: #1E90FF;
+  float: right;
+}
+.rectangle3{
+  width: 700px;
+  height: 150px;
+  background: #FF6347;
+  float: left;
+}
+.rectangle4{
+  width: 600px;
+  height: 75px;
+  background: #FF8C00;
+  float: left;
+}
+.rectangle5{
+  width: 543px;
+  height: 75px;
+  background: #B0C4DE;
+  float: right;
+}
+.rectangle6{
+  width: 380px;
+  height: 75px;
+  background: #FFA500;
+  float: left;
+}
+.rectangle7{
+  width: 380px;
+  height: 75px;
+  background: #3CB371;
+  float: left;
+}
+.rectangle8{
+  width: 383px;
+  height: 75px;
+  background: #FF4500;
+  float: left;
+}
+.rectangle9{
+  width: 1800px;
+  height: 200px;
+  background: #004060;
+  float: left;
+}
