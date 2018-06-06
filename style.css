@@ -1,54 +1,54 @@
 .rectangle1{
-  width: 80%;
-  height: 75px;
-  background: #00FFAF;
+  width: 75%;
+  height: 100px;
+  background: #2ECC71;
   float: left;
 }
 .rectangle2{
-  width: 20%;
-  height: 75px;
-  background: #1E90FF;
+  width: 25%;
+  height: 100px;
+  background: #2980B9;
   float: right;
 }
 .rectangle3{
-  width: 700px;
-  height: 150px;
-  background: #FF6347;
+  width: 30%;
+  height: 200px;
+  background: #E74C3C;
   float: left;
 }
 .rectangle4{
-  width: 600px;
-  height: 75px;
-  background: #FF8C00;
+  width: 30%;
+  height: 100px;
+  background: #E67E22;
   float: left;
 }
 .rectangle5{
-  width: 543px;
-  height: 75px;
-  background: #B0C4DE;
+  width: 40%;
+  height: 100px;
+  background: #95A5A6;
   float: right;
 }
 .rectangle6{
-  width: 380px;
-  height: 75px;
-  background: #FFA500;
+  width: 22%;
+  height: 100px;
+  background: #F39C12;
   float: left;
 }
 .rectangle7{
-  width: 380px;
-  height: 75px;
-  background: #3CB371;
+  width: 23%;
+  height: 100px;
+  background: #16A085;
   float: left;
 }
 .rectangle8{
-  width: 383px;
-  height: 75px;
-  background: #FF4500;
+  width: 25%;
+  height: 100px;
+  background: #D35400;
   float: left;
 }
 .rectangle9{
-  width: 1843px;
-  height: 200px;
-  background: #004060;
+  width: 100%;
+  height: 300px;
+  background: #2C3E50;
   float: left;
 }
