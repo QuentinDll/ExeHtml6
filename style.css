@@ -1,54 +1,48 @@
-.rectangle1{
+div{
+  float: left;
+}
+#rectangle1{
   width: 75%;
   height: 100px;
   background: #2ECC71;
-  float: left;
 }
-.rectangle2{
+#rectangle2{
   width: 25%;
   height: 100px;
   background: #2980B9;
-  float: right;
 }
-.rectangle3{
+#rectangle3{
   width: 30%;
   height: 200px;
   background: #E74C3C;
-  float: left;
 }
-.rectangle4{
+#rectangle4{
   width: 30%;
   height: 100px;
   background: #E67E22;
-  float: left;
 }
-.rectangle5{
+#rectangle5{
   width: 40%;
   height: 100px;
   background: #95A5A6;
-  float: right;
 }
-.rectangle6{
+#rectangle6{
   width: 22%;
   height: 100px;
   background: #F39C12;
-  float: left;
 }
-.rectangle7{
+#rectangle7{
   width: 23%;
   height: 100px;
   background: #16A085;
-  float: left;
 }
-.rectangle8{
+#rectangle8{
   width: 25%;
   height: 100px;
   background: #D35400;
-  float: left;
 }
-.rectangle9{
+#rectangle9{
   width: 100%;
   height: 300px;
   background: #2C3E50;
-  float: left;
 }
